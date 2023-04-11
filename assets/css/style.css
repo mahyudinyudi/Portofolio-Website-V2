@@ -159,6 +159,31 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 
+/* Translate Navigation */
+
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+.goog-te-menu-value:hover {
+  text-decoration: none !important;
+}
+
+.goog-te-gadget-icon {
+  display: none !important;
+}
+
+.goog-te-combo {
+  border-color: #ccc !important;
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
+.goog-te-combo option {
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
 /* Desktop Navigation */
 
 .nav-menu * {

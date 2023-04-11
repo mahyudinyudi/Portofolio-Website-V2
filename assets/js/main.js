@@ -312,7 +312,7 @@
 })(jQuery)
 
 const scriptURL =
-  'https://script.google.com/macros/s/AKfycbz4zeawNe9YCQSl4nbDV_RmtmxI5mC38UlXGbGBIq3FcLTm2AgRpcpJnZGOqiLbwiDB/exec'
+  'https://script.google.com/macros/s/AKfycbx2Jc_3OGMjKrzVYWwWawMpbOHYMP4QKleRPLDZF7e0sZ79KOZ3cPR5SRQMUGjeNdex/exec'
 const form = document.forms['submit-to-google-sheet']
 const success = document.querySelector('.sent-message')
 
