@@ -1,3 +1,3 @@
 # Mahyudin Portfolio
 
-https://mahyudin.app/
+https://mahyudin.tech/
